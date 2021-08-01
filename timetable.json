@@ -1,35 +1,35 @@
 {
-  "Monday": ["English MT", "Computer Science", "Physics", "Economics", "Math"],
+  "Monday": ["Math MT", "Math", "Computer Science", "Physics", "Chemistry"],
   "Tuesday": [
     "Homeroom",
+    "Chemistry",
     "Math",
     "English",
     "Computer Science",
-    "Economics",
     "Physics"
   ],
   "Wednesday": [
     "Homeroom",
-    "Physics",
-    "Computer Science",
     "English",
     "Math",
-    "Economics"
+    "Chemistry",
+    "Computer Science",
+    "Physics"
   ],
   "Thursday": [
     "Homeroom",
-    "Computer Science",
-    "English",
+    "Chemistry",
     "Physics",
-    "Economics",
-    "Math"
+    "Math",
+    "English",
+    "Computer Science"
   ],
   "Friday": [
     "Homeroom",
-    "Computer Science",
+    "Math",
     "Physics",
     "English",
-    "Economics",
-    "Math"
+    "Computer Science",
+    "Chemistry"
   ]
 }
